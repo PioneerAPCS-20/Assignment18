@@ -4,7 +4,7 @@ For this assignment you will run a dice simulation where you let the user pick t
 
 ## Specifications
 
-* You need to have at least two classes (e.g. `Runner` and `Simulation` or `Runner`, `Die`, and `Simulation`).
+* You need to have at least two classes (e.g. `Main` and `Simulation` or `Main`, `Die`, and `Simulation`).
 
 * The user should be able to specify how many rolls (Hint: use a `for` loop).
 
@@ -12,7 +12,7 @@ For this assignment you will run a dice simulation where you let the user pick t
 
 * Your program should not allow inputs smaller than 0 and the user should be able to run the program as many times as they want. Use `while` loops to achieve this functionality.
 
-### Sample Outputs
+## Sample Outputs
 ```
 How many rolls? 10
 
